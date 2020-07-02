@@ -10,3 +10,4 @@ materials on one-week course on programming with python
 - functions and funtional tools : gentle intro
 - error handle
 - oop in python : gentle intro
+https://colab.research.google.com/drive/1muLj5hmEKjG9vXtC5yq7CXumOTspha9l
